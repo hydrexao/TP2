@@ -11,6 +11,10 @@ int main(int argc, char** argv) {
 	string bonjour="Hello world"
 	cout<< bonjour<< endl;
 	// me voilaaaaaaa!!!
-    return 0;
+	cout<<" O "<< endl;
+    	cout<<"/|\"<< endl;
+	cout<<" ^ "<< endl;
+	cout<<"/ \"<< endl;
+	return 0;
 }
 
