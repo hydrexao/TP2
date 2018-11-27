@@ -10,6 +10,9 @@ int main(int argc, char** argv) {
     // j'ai eu du mal mais voici ma première modification
 	string bonjour="Hello world"
 	cout<< bonjour<< endl;
+	//maintenant une discussion
+	cout<<"ça va?"<<endl;
     return 0;
 }
 
+//fin du code
